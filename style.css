@@ -1,0 +1,9 @@
+.first{
+    background-color: blanchedalmond;
+    color: crimson;
+    font-family: monospace;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 1px 1px 6px burlywood;
+}
